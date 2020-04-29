@@ -52,9 +52,6 @@ class StoryBrain {
       case 2:
         _storyNumber = choiceNumber == 1 ? 5 : 4;
         break;
-      case 2:
-        _storyNumber = choiceNumber == 1 ? 5 : 4;
-        break;
       default:
         reset();
     }
